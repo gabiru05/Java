@@ -1,6 +1,6 @@
+package Area_Perimetro;
 
-//Edwin Ureña, Luis Montenegro, Gabriel Ruiz
-//editado Gabriel Ruiz !!Programa entendible para futuros programadores o inspectores!!
+//Editado Gabriel Ruiz !!Programa entendible para futuros programadores o inspectores!!
 import java.io.*;
 import java.lang.Math;
 
@@ -22,8 +22,8 @@ public class AreayPerimetro {
             } // fin del try
             catch (Exception e) {
                 System.out.println("---Dato no valido---");
-                System.out.println("Que area y perimetro de estas figuras desea calcular");
-                System.out.println("1. Cuadrilatero");
+                System.out.println("Que area y perímetro de estas figuras desea calcular");
+                System.out.println("1. Cuadrilátero");
                 System.out.println("2. Triangulo");
                 System.out.println("3. Trapecio");
                 System.out.println("4. Circulo");

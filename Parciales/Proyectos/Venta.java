@@ -1,5 +1,4 @@
 
-// Luis Montenero , Edwin Ureña, Gabriel Ruiz
 //Programado por Gabriel Ruiz !!Programa entendible para futuros programadores o inspectores!!
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,13 +6,13 @@ import java.io.InputStreamReader;
 
 public class Venta {
 
-    // declaramos precio articulos sin cambio
+    // declaramos precio artículos sin cambio
     final static double Zapato_C = 25.0;
     final static double Carter_C = 15.50;
     final static double ROPA_C = 150.75;
     final static double Sombrero_C = 5.0;
 
-    // metodos no solicitados pero utiles continuar con secuencia>>linea 111
+    // métodos no solicitados pero útiles continuar con secuencia>>linea 111
 
     public static void clean() {
         System.out.print("\033[H\033[2J");
@@ -207,7 +206,7 @@ public class Venta {
                 clean();
                 System.out.println("Intente nuevamente:");
             }
-            
+
         }
     }
 

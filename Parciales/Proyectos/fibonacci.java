@@ -1,6 +1,4 @@
 
-//Edwin Ureña, Luis Montenegro, Gabriel Ruiz
-
 //Programa editado Gabriel Ruiz  !!Programa entendible para futuros programadores o inspectores!!
 
 import java.io.*;
